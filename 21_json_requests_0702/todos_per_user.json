@@ -1,0 +1,42 @@
+{
+    "1": {
+        "completed": 11,
+        "not_completed": 9
+    },
+    "2": {
+        "completed": 8,
+        "not_completed": 12
+    },
+    "3": {
+        "completed": 7,
+        "not_completed": 13
+    },
+    "4": {
+        "completed": 6,
+        "not_completed": 14
+    },
+    "5": {
+        "completed": 12,
+        "not_completed": 8
+    },
+    "6": {
+        "completed": 6,
+        "not_completed": 14
+    },
+    "7": {
+        "completed": 9,
+        "not_completed": 11
+    },
+    "8": {
+        "completed": 11,
+        "not_completed": 9
+    },
+    "9": {
+        "completed": 8,
+        "not_completed": 12
+    },
+    "10": {
+        "completed": 12,
+        "not_completed": 8
+    }
+}
