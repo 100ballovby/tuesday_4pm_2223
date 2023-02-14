@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "\u00d8rjan",
+                "last": "Karlstr\u00f8m"
+            },
+            "location": {
+                "street": {
+                    "number": 5342,
+                    "name": "Spektrumveien"
+                },
+                "city": "Tyristrand",
+                "state": "Vest-Agder",
+                "country": "Norway",
+                "postcode": "5265",
+                "coordinates": {
+                    "latitude": "45.0895",
+                    "longitude": "-82.8292"
+                },
+                "timezone": {
+                    "offset": "+7:00",
+                    "description": "Bangkok, Hanoi, Jakarta"
+                }
+            },
+            "email": "orjan.karlstrom@example.com",
+            "login": {
+                "uuid": "f6d8cefa-08eb-481d-a3db-6248c0ef7163",
+                "username": "ticklishpeacock446",
+                "password": "chance",
+                "salt": "dH6SFeY5",
+                "md5": "da0643273df67777999ddf336ab62b88",
+                "sha1": "e106bbcf313e758fb2a5a0b93a5fe096d1fb8e63",
+                "sha256": "3491217206a3a012d9c1345182d8600c08a02812222b1daf6ee0545b14a3e75e"
+            },
+            "dob": {
+                "date": "1954-08-23T04:53:32.904Z",
+                "age": 68
+            },
+            "registered": {
+                "date": "2008-06-03T07:44:48.149Z",
+                "age": 14
+            },
+            "phone": "70894142",
+            "cell": "97446030",
+            "id": {
+                "name": "FN",
+                "value": "23085415972"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/53.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
+            },
+            "nat": "NO"
+        }
+    ],
+    "info": {
+        "seed": "603b59c5bf0a7b6b",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
