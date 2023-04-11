@@ -2,7 +2,7 @@ import telebot
 import csv
 import random as r
 
-bot = telebot.TeleBot('6078941315:AAFB5F4U6hgH1BquQI3TEKH7Mia5kBSLH-k')
+bot = telebot.TeleBot('token')
 
 
 def update_sticker_collection(emoji, sticker_id):
